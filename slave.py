@@ -1,6 +1,5 @@
 import numpy
 import pika
-import ga
 import threading
 import json
 from time import sleep
